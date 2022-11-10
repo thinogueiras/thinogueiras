@@ -1,11 +1,11 @@
 ### Olá, seja muito bem-vindo(a) ao meu perfil 👋
 
-Sou profissional da área de T.I desde Fevereiro de 2015.
-Iniciei como Analista de Suporte de Sistemas (Service Desk).
-Me tornei Analista de Testes/QA 🔎🐞 em Março de 2019 e desde então, sou apaixonado pelo que faço. 😍😍
+Sou profissional da área de T.I desde Fevereiro de 2015. <p>
+Iniciei como Analista de Suporte de Sistemas (Service Desk). <p>
+Me tornei Analista de Testes/QA 🔎🐞 em Março de 2019 e desde então, sou apaixonado pelo que faço. 😍😍 <p>
 
-Estou estudando e praticando <strong>Automação de Testes</strong> com o objetivo de me tornar especialista <strong>FullStack</strong>.
-Meu maior foco são nas linguaguens <strong>Java</strong> e <strong>JavaScript</strong>.
+Estou estudando e praticando <strong>Automação de Testes</strong> com o objetivo de me tornar especialista <strong>FullStack</strong>. <p>
+Meu maior foco são nas linguaguens <strong>Java</strong> e <strong>JavaScript</strong>. <p>
 
 ### Framework's que mais utilizei e tenho maior afinidade:
 
