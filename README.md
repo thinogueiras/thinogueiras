@@ -13,7 +13,7 @@ Meu maior foco são nas linguaguens <strong>Java</strong> e <strong>JavaScript</
     
     BDD: Cucumber.
 
-    Web: Selenium WebDriver, Cypress, Playwright e Robot Framework.
+    Web: Selenium WebDriver, Protractor, Cypress, Playwright e Robot Framework.
 
     API: Postman / Newman, REST-assured, (Mocha / ChaiHttp / Supertest), Cypress e Robot Framework.
   
