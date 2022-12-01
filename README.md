@@ -5,11 +5,11 @@ Iniciei como Analista de Suporte de Sistemas (Service Desk). <p>
 Me tornei Analista de Testes/QA 🔎🐞 em Março de 2019 e desde então, sou apaixonado pelo que faço. 😍😍 <p>
 
 Estou estudando e praticando <strong>Automação de Testes</strong> com o objetivo de me tornar especialista <strong>FullStack</strong>. <p>
-Meu maior foco são nas linguaguens <strong>Java</strong> e <strong>JavaScript</strong>. <p>
+Meu maior foco são nas linguaguens <strong>Java</strong> e <strong>JavaScript</strong>, mas já tive um pouco de contato também com <strong>Python</strong> e <strong>TypeScript</strong>. <p>
 
-### Framework's que mais utilizei e tenho maior afinidade:
+### Framework's, ferramentas e tecnologias que mais utilizo e/ou tenho maior contato:
 
-    Unitários: JUnit 5, Jasmine e Chai.
+    Unitários: JUnit, Jasmine e Chai.
     
     BDD: Cucumber.
 
