@@ -1,27 +1,18 @@
 ### Olá, seja muito bem-vindo(a) ao meu perfil 👋
 
-Sou profissional da área de T.I desde Fevereiro de 2015. <p>
-Iniciei como Analista de Suporte de Sistemas (Service Desk). <p>
+Sou profissional de T.I desde Fevereiro de 2015. <p>
+Iniciei como Consultor de Service Desk na empresa Consinco S/A, na cidade de Ribeirão Preto - SP. <p>
 Me tornei Analista de Testes/QA 🔎🐞 em Março de 2019 e desde então, sou apaixonado pelo que faço. 😍😍 <p>
 
-Estou estudando e praticando <strong>Automação de Testes</strong> com o objetivo de me tornar especialista <strong>FullStack</strong>. <p>
-Meu maior foco são nas linguaguens <strong>Java</strong> e <strong>JavaScript</strong>, mas já tive um pouco de contato também com <strong>Python</strong> e <strong>TypeScript</strong>. <p>
+QA de Automação de Testes desde Janeiro de 2022.
 
-### Framework's, ferramentas e tecnologias que mais utilizo e/ou tenho maior contato:
+Automação de Testes Web, Mobile e API.
 
-    Unitários: JUnit, Jasmine e Chai.
-    
-    BDD: Cucumber.
+---
 
-    Web: Selenium WebDriver, Protractor, Cypress, Playwright e Robot Framework.
+<a href="https://www.linkedin.com/in/thinogueiras"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
-    API: Postman / Newman, REST-assured, (Mocha / ChaiHttp / Supertest), Cypress e Robot Framework.
-  
-    Mobile: Appium.
-    
-    DevOps: GitHub Actions, GitLab CI e Jenkins.
-
-
+---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thinogueiras&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinogueiras&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thinogueiras&theme=github_dark)
