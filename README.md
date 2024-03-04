@@ -11,6 +11,7 @@ Automação de Testes Web, Mobile e API.
 ---
 
 <a href="https://www.linkedin.com/in/thinogueiras"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+![](https://komarev.com/ghpvc/?username=thinogueiras&style=for-the-badge)
 
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thinogueiras&theme=github_dark)
